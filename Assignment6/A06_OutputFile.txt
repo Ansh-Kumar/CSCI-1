@@ -1,0 +1,115 @@
+Ansh Kumar
+Section 0113
+Assignment 6
+Name: 0 James
+	 1 A	 2 B	 3 C	 4 D	 5 D
+	 6 C	 7 B	 8 A	 9 A	10 B
+	11 C	12 D	13 D	14 C	15 B
+
+Score: 100 Passed
+
+Name: 1 John
+	 1 BX	 2 B	 3 C	 4 D	 5 D
+	 6 C	 7 B	 8 A	 9 A	10 B
+	11 C	12 D	13 D	14 C	15 B
+
+Score: 93.33 Passed
+
+Name: 2 Michael
+	 1 BX	 2 CX	 3 C	 4 D	 5 D
+	 6 C	 7 B	 8 A	 9 A	10 B
+	11 C	12 D	13 D	14 C	15 B
+
+Score: 86.67 Passed
+
+Name: 3 William
+	 1 BX	 2 CX	 3 DX	 4 D	 5 D
+	 6 C	 7 B	 8 A	 9 A	10 B
+	11 C	12 D	13 D	14 C	15 B
+
+Score: 80 Passed
+
+Name: 4 Thomas
+	 1 BX	 2 CX	 3 DX	 4 AX	 5 D
+	 6 C	 7 B	 8 A	 9 A	10 B
+	11 C	12 D	13 D	14 C	15 B
+
+Score: 73.33 Passed
+
+Name: 5 Donald
+	 1 BX	 2 CX	 3 DX	 4 AX	 5 AX
+	 6 C	 7 B	 8 A	 9 A	10 B
+	11 C	12 D	13 D	14 C	15 B
+
+Score: 66.67 Failed
+
+Name: 6 Steven
+	 1 BX	 2 CX	 3 DX	 4 AX	 5 AX
+	 6 DX	 7 B	 8 A	 9 A	10 B
+	11 C	12 D	13 D	14 C	15 B
+
+Score: 60 Failed
+
+Name: 7 Larry
+	 1 BX	 2 CX	 3 DX	 4 AX	 5 AX
+	 6 DX	 7 CX	 8 A	 9 A	10 B
+	11 C	12 D	13 D	14 C	15 B
+
+Score: 53.33 Failed
+
+Name: 8 Scott
+	 1 BX	 2 CX	 3 DX	 4 AX	 5 AX
+	 6 DX	 7 CX	 8 BX	 9 A	10 B
+	11 C	12 D	13 D	14 C	15 B
+
+Score: 46.67 Failed
+
+Name: 9 Samuel
+	 1 BX	 2 CX	 3 DX	 4 AX	 5 AX
+	 6 DX	 7 CX	 8 BX	 9 BX	10 B
+	11 C	12 D	13 D	14 C	15 B
+
+Score: 40 Failed
+
+Name: 10 Dennis
+	 1 BX	 2 CX	 3 DX	 4 AX	 5 AX
+	 6 DX	 7 CX	 8 BX	 9 BX	10 CX
+	11 C	12 D	13 D	14 C	15 B
+
+Score: 33.33 Failed
+
+Name: 11 Alan
+	 1 BX	 2 CX	 3 DX	 4 AX	 5 AX
+	 6 DX	 7 CX	 8 BX	 9 BX	10 CX
+	11 DX	12 D	13 D	14 C	15 B
+
+Score: 26.67 Failed
+
+Name: 12 Wayne
+	 1 BX	 2 CX	 3 DX	 4 AX	 5 AX
+	 6 DX	 7 CX	 8 BX	 9 BX	10 CX
+	11 DX	12 AX	13 D	14 C	15 B
+
+Score: 20 Failed
+
+Name: 13 Roger
+	 1 BX	 2 CX	 3 DX	 4 AX	 5 AX
+	 6 DX	 7 CX	 8 BX	 9 BX	10 CX
+	11 DX	12 AX	13 AX	14 C	15 B
+
+Score: 13.33 Failed
+
+Name: 14 Ethan
+	 1 BX	 2 CX	 3 DX	 4 AX	 5 AX
+	 6 DX	 7 CX	 8 BX	 9 BX	10 CX
+	11 DX	12 AX	13 AX	14 DX	15 B
+
+Score: 6.667 Failed
+
+Name: 15 Albert
+	 1 BX	 2 CX	 3 DX	 4 AX	 5 AX
+	 6 DX	 7 CX	 8 BX	 9 BX	10 CX
+	11 DX	12 AX	13 AX	14 DX	15 CX
+
+Score: 0 Failed
+
