@@ -1,0 +1,40 @@
+Sum of Profits
+	Invalid Identifier	Length = 13
+Average_Score
+	Valid Identifier	Length = 12
+line3
+	Valid Identifier	Length = 4
+3line
+	Invalid Identifier	Length = 4
+MyLength
+	Valid Identifier	Length = 7
+My_length
+	Valid Identifier	Length = 8
+My-Length
+	Invalid Identifier	Length = 8
+https://yahoo.com
+	Invalid Identifier	Length = 16
+FILE99
+	Valid Identifier	Length = 5
+102State
+	Invalid Identifier	Length = 7
+BirthDay
+	Valid Identifier	Length = 7
+Birth.Day
+	Invalid Identifier	Length = 8
+a1a2a3a4a5a6a7a8a9
+	Valid Identifier	Length = 17
+client@yahoo
+	Invalid Identifier	Length = 11
+{customer}
+	Invalid Identifier	Length = 9
+(2+8-9)
+	Invalid Identifier	Length = 6
+if (a+b > 9)
+	Invalid Identifier	Length = 11
+var_3*2+8
+	Invalid Identifier	Length = 8
+var_3x2x8
+	Valid Identifier	Length = 8
+var_3x2/8
+	Invalid Identifier	Length = 8
