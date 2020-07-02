@@ -1,0 +1,84 @@
+Ansh Kumar
+Section 0113
+Final Exam Program: Operation Output File
+
+n1:		  4 (four)
+n2:		  2 (two)
+Add:		  6 (six)
+
+n1:		  3 (three)
+n2:		 96 (ninety-six)
+Add:		 99 (ninety-nine)
+
+n1:		 96 (ninety-six)
+n2:		  3 (three)
+Add:		 99 (ninety-nine)
+
+n1:		 33 (thirty-three)
+n2:		 66 (sixty-six)
+Add:		 99 (ninety-nine)
+
+n1:		 40 (forty)
+n2:		 20 (twenty)
+Add:		 60 (sixty)
+
+n1:		 55 (fifty-five)
+n2:		 44 (forty-four)
+Add:		 99 (ninety-nine)
+
+n1:		  2 (two)
+n2:		  1 (one)
+Sub:		  1 (one)
+
+n1:		 99 (ninety-nine)
+n2:		  1 (one)
+Sub:		 98 (ninety-eight)
+
+n1:		 50 (fifty)
+n2:		 49 (forty-nine)
+Sub:		  1 (one)
+
+n1:		 60 (sixty)
+n2:		 40 (forty)
+Add:		100 (one hundred)
+
+n1:		  1 (one)
+n2:		 99 (ninety-nine)
+Add:		100 (one hundred)
+
+n1:		 50 (fifty)
+n2:		 50 (fifty)
+Add:		100 (one hundred)
+
+n1:		 70 (seventy)
+n2:		 70 (seventy)
+Sub:		  0 (zero)
+
+n1:		 50 (fifty)
+n2:		 50 (fifty)
+Sub:		  0 (zero)
+
+n1:		 99 (ninety-nine)
+n2:		 99 (ninety-nine)
+Add:		198 (one hundred ninety-eight)
+
+n1:		 49 (forty-nine)
+n2:		 52 (fifty-two)
+Add:		101 (one hundred one)
+
+n1:		 71 (seventy-one)
+n2:		 71 (seventy-one)
+Add:		142 (one hundred forty-two)
+
+n1:		  1 (one)
+n2:		 99 (ninety-nine)
+Sub:		-98 (negative ninety-eight)
+
+n1:		 61 (sixty-one)
+n2:		 62 (sixty-two)
+Sub:		 -1 (negative one)
+
+n1:		 23 (twenty-three)
+n2:		 55 (fifty-five)
+Sub:		-32 (negative thirty-two)
+
